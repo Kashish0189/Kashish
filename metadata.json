@@ -1,0 +1,6 @@
+{
+  "name": "MEDI - Next-Gen AI Companion",
+  "description": "Interactive prototype for MEDI by Vision Axis AI Lab — bringing AI beyond the screen with real-time 3D, holographic presence, and physical companion vision.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
